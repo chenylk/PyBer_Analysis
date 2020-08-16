@@ -12,3 +12,4 @@
   1. Make sure that urban cities are equipt with a sufficient amount of resources. These urban cities pull in the most revenue so it is vital to ensure that the customer base is happy in these types of cities. 
   2. Offer incentives for workers to drive in rural cities. It seems like the price per ride is fairly high which could bring in competitors with lower price offerings. If we were able to provide more drivers in rural and suburban areas, we could get the cost of the rides down and bring in more customers. 
   3. 
+ ![PyBer_Summary_Graph](https://github.com/chenylk/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
